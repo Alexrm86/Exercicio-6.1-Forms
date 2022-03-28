@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.speaker-form-header {
+    text-align: center;
+    background-color: rgb(246, 247, 248);
+    border-radius: 3px;
+    width: 80%;
+    margin: 40px auto;
+    padding: 50px;
+}
+
+.speaker-form-header h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
+/* Estilizando o formulário */
+
+.speaker-form {
+    background-color: rgb(246, 247, 248);
+    border-radius: 3px;
+    width: 80%;
+    padding: 50px;
+    margin: 0 auto 40px auto;
+}
+
+.form-row input[type="text"] {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(214, 217, 220);
+    border-radius: 3px;
+    width: 100%;
+    padding: 7px;
+    font-size: 14px;
+}
+
+.line-content {
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+/* Estilizando o texarea */
+
+textarea {
+    width: 100%;
+    margin-top: 15px;
+    resize: none;
+}
+
+
+/* Estilizando o botão */
+
+button {
+    padding: 10px;
+}
